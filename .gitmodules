@@ -1,0 +1,6 @@
+[submodule "cartolol-apirest"]
+	path = cartolol-apirest
+	url = https://github.com/SrMilton/cartolol-apirest.git
+[submodule "Interdiciplinar"]
+	path = Interdiciplinar
+	url = https://github.com/Leofranco224/Interdiciplinar
