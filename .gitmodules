@@ -5,3 +5,6 @@
 	path = Interdiciplinar
 	url = https://github.com/Leofranco224/Interdiciplinar
 
+[submodule "cartolol-uml"]
+	path = cartolol-uml
+	url = https://github.com/InterCartolol/cartolol-uml
